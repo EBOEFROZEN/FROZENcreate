@@ -7,11 +7,16 @@
 .header__nav{
     background:peru;
     height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .header__content{
     background: violet;
     color: aquamarine;
     height: 50vh;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
